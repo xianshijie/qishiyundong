@@ -4,3 +4,4 @@
 如果你对本技术支持有任何疑问，请联系https://www.promecn.com
 ![image](https://github.com/xianshijie/qishiyundong/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-10-14%20at%2011.23.55.png)
 ![image](https://github.com/xianshijie/qishiyundong/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-10-15%20at%2012.01.34.png)
+![image](https://github.com/xianshijie/qishiyundong/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-10-15%20at%2012.01.44.png)
